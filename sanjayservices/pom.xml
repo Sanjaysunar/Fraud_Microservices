@@ -7,10 +7,15 @@
   <groupId>com.sanjay</groupId>
   <artifactId>sanjayservices</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
 
   <name>sanjayservices</name>
   <!-- FIXME change it to the project's website -->
   <url>https://www.example.com</url>
+  <modules>
+    <module>customer</module>
+    <module>customer</module>
+  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
