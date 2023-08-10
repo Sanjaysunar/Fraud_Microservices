@@ -14,7 +14,7 @@
   <url>https://www.example.com</url>
   <modules>
     <module>customer</module>
-    <module>customer</module>
+    <module>fraud</module>
   </modules>
 
   <properties>
