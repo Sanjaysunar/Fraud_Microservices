@@ -8,8 +8,6 @@
         <artifactId>sanjayservices</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
-    <groupId>org.sanjay</groupId>
     <artifactId>customer</artifactId>
 
     <properties>
